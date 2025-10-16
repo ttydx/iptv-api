@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-16 22:10:15,http://106.53.99.30/tv/cctv13.php
+2025-10-17 06:15:54,http://106.53.99.30/tv/cctv13.php
 
 📺央视频道,#genre#
 CCTV-13,http://106.53.99.30/tv/cctv13.php
@@ -18,7 +18,6 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
-动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
@@ -26,8 +25,6 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 新动漫,rtsp://115.153.212.72/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-金鹰卡通,http://101.66.199.152:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰卡通,http://101.66.199.125:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 黑莓动画,http://lt.hxtre.com:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -35,11 +32,7 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 炫动卡通,http://1b6467f415.iok.la:9931/tsfile/live/1056_1.m3u8
 炫动卡通,rtsp://118.212.169.207:554/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil
 炫动卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221225583/iptv7982.smil
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
-七龙珠,http://www.douzhicloud.site:35455/huya/11601966
-中华小当家,http://www.douzhicloud.site:35455/huya/11342413
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-猫和老鼠,http://www.douzhicloud.site:35455/huya/11352879
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🌊港·澳·台,#genre#
@@ -62,4 +55,5 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
+Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
