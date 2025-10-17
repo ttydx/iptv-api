@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-17 16:23:52,https://jzb.wwkejishe.top/?id=580
+2025-10-17 18:19:47,https://jzb.wwkejishe.top/?id=580
 
 📺央视频道,#genre#
 CCTV-3,https://jzb.wwkejishe.top/?id=580
@@ -33,7 +33,6 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
-河南卫视,https://jzb.wwkejishe.top/?id=616
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 陕西卫视,https://jzb.wwkejishe.top/?id=603
@@ -41,9 +40,7 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594
 
 🪁动画频道,#genre#
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
 海绵宝宝,https://live.metshop.top/douyu/3949681
-中华小当家,https://live.metshop.top/huya/11342413
 经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
@@ -52,7 +49,6 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
-凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8

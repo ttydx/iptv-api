@@ -1,35 +1,16 @@
 🕘️更新时间,#genre#
-2025-10-17 16:23:52,https://httop.top/ysp-cctv1
+2025-10-17 18:19:47,http://106.53.99.30/tv/cctv13.php
 
 📺央视频道,#genre#
-CCTV-1,https://httop.top/ysp-cctv1
-CCTV-2,https://httop.top/ysp-cctv2
-CCTV-3,https://httop.top/ysp-cctv3
-CCTV-4,https://httop.top/ysp-cctv4
-CCTV-5,https://httop.top/ysp-cctv5
-CCTV-6,https://httop.top/ysp-cctv6
-CCTV-7,https://httop.top/ysp-cctv7
-CCTV-8,https://httop.top/ysp-cctv8
-CCTV-9,https://httop.top/ysp-cctv9
-CCTV-10,https://httop.top/ysp-cctv10
-CCTV-11,https://httop.top/ysp-cctv11
-CCTV-12,https://httop.top/ysp-cctv12
 CCTV-13,http://106.53.99.30/tv/cctv13.php
-CCTV-13,https://httop.top/ysp-cctv13
-CCTV-15,https://httop.top/ysp-cctv15
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
-CCTV-16,https://httop.top/ysp-cctv14
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
-CCTV-17,https://httop.top/ysp-cctv17
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-重庆卫视,http://61.184.46.85:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-内蒙古卫视,http://218.8.87.96:4000/rtp/229.58.190.183:5000
-宁夏卫视,https://httop.top/ysp-宁夏卫视
 
 🪁动画频道,#genre#
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
@@ -44,15 +25,13 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 新动漫,rtsp://115.153.212.72/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+黑莓动画,http://lt.hxtre.com:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
-炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
+炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,http://1b6467f415.iok.la:9931/tsfile/live/1056_1.m3u8
 炫动卡通,rtsp://118.212.169.207:554/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil
 炫动卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221225583/iptv7982.smil
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
-中华小当家,http://www.douzhicloud.site:35455/huya/11342413
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 猫和老鼠,http://www.douzhicloud.site:35455/huya/11352879
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
@@ -60,8 +39,8 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠台,http://8.138.7.223/tv/hot.php?id=68
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
@@ -76,4 +55,5 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
+Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
