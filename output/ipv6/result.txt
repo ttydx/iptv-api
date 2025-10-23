@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-23 18:20:20,https://jzb.wwkejishe.top/?id=579
+2025-10-24 06:16:34,https://jzb.wwkejishe.top/?id=579
 
 📺央视频道,#genre#
 CCTV-2,https://jzb.wwkejishe.top/?id=579
@@ -38,6 +38,7 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🌊港·澳·台,#genre#
+明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
