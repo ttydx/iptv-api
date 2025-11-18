@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-18 18:20:04,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2025-11-19 06:16:08,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -20,7 +20,6 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn6.163189.xyz/163189/fct4k
-明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
