@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-10 18:18:30,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-01-11 06:18:03,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -11,6 +11,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 🪁动画频道,#genre#
 七龙珠,https://live.ottiptv.cc/huya/11601966
+火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
 海绵宝宝,https://live.metshop.top/douyu/3949681
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 漫画解说,https://www.goodiptv.club/douyu/5907076
