@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-13 06:17:36,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-01-13 18:21:00,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -10,8 +10,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
 🪁动画频道,#genre#
-七龙珠,https://live.ottiptv.cc/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
+中华小当家,https://live.ottiptv.cc/huya/11342413
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🌊港·澳·台,#genre#
